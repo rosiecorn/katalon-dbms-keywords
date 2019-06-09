@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo - ReadData - MySql -InternalConnection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2ede462-dc2f-41ad-83c9-aac729b464b0</testCaseGuid>
+</TestCaseEntity>

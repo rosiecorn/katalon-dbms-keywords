@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo - ReadData - PostgresSql -InternalConnection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f15a52ec-afed-482e-bdaa-38d701f8eb0c</testCaseGuid>
+</TestCaseEntity>
